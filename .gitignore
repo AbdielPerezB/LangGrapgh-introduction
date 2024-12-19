@@ -1,0 +1,12 @@
+langg-int
+# Ignorar archivos compilados y cache python
+*.class
+__pychache__
+*.pyc
+# Ignorar archivos temporales
+*.swp
+*~
+
+# Ignorar archivos de configuración locales
+.DS_Store
+.env
